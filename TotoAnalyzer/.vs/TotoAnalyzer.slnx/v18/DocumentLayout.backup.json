@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0415\u0440\u0445\u0430\u043D \u042E\u0440\u0443\u043A\u043E\u0432\\Desktop\\TotoAnalyzer\\TotoAnalyzer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F46E3453-9C4E-457F-AABF-ADC629F7EEEE}|TotoAnalyzer.csproj|c:\\users\\\u0435\u0440\u0445\u0430\u043D \u044E\u0440\u0443\u043A\u043E\u0432\\desktop\\totoanalyzer\\totoanalyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46E3453-9C4E-457F-AABF-ADC629F7EEEE}|TotoAnalyzer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46E3453-9C4E-457F-AABF-ADC629F7EEEE}|TotoAnalyzer.csproj|c:\\users\\\u0435\u0440\u0445\u0430\u043D \u044E\u0440\u0443\u043A\u043E\u0432\\desktop\\totoanalyzer\\totoanalyzer\\models\\draw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46E3453-9C4E-457F-AABF-ADC629F7EEEE}|TotoAnalyzer.csproj|solutionrelative:models\\draw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46E3453-9C4E-457F-AABF-ADC629F7EEEE}|TotoAnalyzer.csproj|c:\\users\\\u0435\u0440\u0445\u0430\u043D \u044E\u0440\u0443\u043A\u043E\u0432\\desktop\\totoanalyzer\\totoanalyzer\\dataloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46E3453-9C4E-457F-AABF-ADC629F7EEEE}|TotoAnalyzer.csproj|solutionrelative:dataloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46E3453-9C4E-457F-AABF-ADC629F7EEEE}|TotoAnalyzer.csproj|c:\\users\\\u0435\u0440\u0445\u0430\u043D \u044E\u0440\u0443\u043A\u043E\u0432\\desktop\\totoanalyzer\\totoanalyzer\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46E3453-9C4E-457F-AABF-ADC629F7EEEE}|TotoAnalyzer.csproj|solutionrelative:statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46E3453-9C4E-457F-AABF-ADC629F7EEEE}|TotoAnalyzer.csproj|c:\\users\\\u0435\u0440\u0445\u0430\u043D \u044E\u0440\u0443\u043A\u043E\u0432\\desktop\\totoanalyzer\\totoanalyzer\\visualizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46E3453-9C4E-457F-AABF-ADC629F7EEEE}|TotoAnalyzer.csproj|solutionrelative:visualizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46E3453-9C4E-457F-AABF-ADC629F7EEEE}|TotoAnalyzer.csproj|c:\\users\\\u0435\u0440\u0445\u0430\u043D \u044E\u0440\u0443\u043A\u043E\u0432\\desktop\\totoanalyzer\\totoanalyzer\\totoanalyzer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F46E3453-9C4E-457F-AABF-ADC629F7EEEE}|TotoAnalyzer.csproj|solutionrelative:totoanalyzer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Visualizer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0440\u0445\u0430\u043D \u042E\u0440\u0443\u043A\u043E\u0432\\Desktop\\TotoAnalyzer\\TotoAnalyzer\\Visualizer.cs",
+              "RelativeDocumentMoniker": "Visualizer.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0440\u0445\u0430\u043D \u042E\u0440\u0443\u043A\u043E\u0432\\Desktop\\TotoAnalyzer\\TotoAnalyzer\\Visualizer.cs",
+              "RelativeToolTip": "Visualizer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwLoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T14:15:44.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Statistics.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0440\u0445\u0430\u043D \u042E\u0440\u0443\u043A\u043E\u0432\\Desktop\\TotoAnalyzer\\TotoAnalyzer\\Statistics.cs",
+              "RelativeDocumentMoniker": "Statistics.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0440\u0445\u0430\u043D \u042E\u0440\u0443\u043A\u043E\u0432\\Desktop\\TotoAnalyzer\\TotoAnalyzer\\Statistics.cs",
+              "RelativeToolTip": "Statistics.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAwwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T14:15:14.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataLoader.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0440\u0445\u0430\u043D \u042E\u0440\u0443\u043A\u043E\u0432\\Desktop\\TotoAnalyzer\\TotoAnalyzer\\DataLoader.cs",
+              "RelativeDocumentMoniker": "DataLoader.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0440\u0445\u0430\u043D \u042E\u0440\u0443\u043A\u043E\u0432\\Desktop\\TotoAnalyzer\\TotoAnalyzer\\DataLoader.cs",
+              "RelativeToolTip": "DataLoader.cs",
+              "ViewState": "AgIAABkBAAAAAAAAAAAswGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T14:14:40.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Draw.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0440\u0445\u0430\u043D \u042E\u0440\u0443\u043A\u043E\u0432\\Desktop\\TotoAnalyzer\\TotoAnalyzer\\Models\\Draw.cs",
+              "RelativeDocumentMoniker": "Models\\Draw.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0440\u0445\u0430\u043D \u042E\u0440\u0443\u043A\u043E\u0432\\Desktop\\TotoAnalyzer\\TotoAnalyzer\\Models\\Draw.cs",
+              "RelativeToolTip": "Models\\Draw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T14:13:50.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TotoAnalyzer",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0440\u0445\u0430\u043D \u042E\u0440\u0443\u043A\u043E\u0432\\Desktop\\TotoAnalyzer\\TotoAnalyzer\\TotoAnalyzer.csproj",
+              "RelativeDocumentMoniker": "TotoAnalyzer.csproj",
+              "ToolTip": "C:\\Users\\\u0415\u0440\u0445\u0430\u043D \u042E\u0440\u0443\u043A\u043E\u0432\\Desktop\\TotoAnalyzer\\TotoAnalyzer\\TotoAnalyzer.csproj",
+              "RelativeToolTip": "TotoAnalyzer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-20T14:13:32.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0440\u0445\u0430\u043D \u042E\u0440\u0443\u043A\u043E\u0432\\Desktop\\TotoAnalyzer\\TotoAnalyzer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0440\u0445\u0430\u043D \u042E\u0440\u0443\u043A\u043E\u0432\\Desktop\\TotoAnalyzer\\TotoAnalyzer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T14:09:59.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

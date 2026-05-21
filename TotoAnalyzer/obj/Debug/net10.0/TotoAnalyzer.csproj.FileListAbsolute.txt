@@ -1,0 +1,14 @@
+C:\Users\Ерхан Юруков\Desktop\TotoAnalyzer\TotoAnalyzer\bin\Debug\net10.0\TotoAnalyzer.exe
+C:\Users\Ерхан Юруков\Desktop\TotoAnalyzer\TotoAnalyzer\bin\Debug\net10.0\TotoAnalyzer.deps.json
+C:\Users\Ерхан Юруков\Desktop\TotoAnalyzer\TotoAnalyzer\bin\Debug\net10.0\TotoAnalyzer.runtimeconfig.json
+C:\Users\Ерхан Юруков\Desktop\TotoAnalyzer\TotoAnalyzer\bin\Debug\net10.0\TotoAnalyzer.dll
+C:\Users\Ерхан Юруков\Desktop\TotoAnalyzer\TotoAnalyzer\bin\Debug\net10.0\TotoAnalyzer.pdb
+C:\Users\Ерхан Юруков\Desktop\TotoAnalyzer\TotoAnalyzer\obj\Debug\net10.0\TotoAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ерхан Юруков\Desktop\TotoAnalyzer\TotoAnalyzer\obj\Debug\net10.0\TotoAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Ерхан Юруков\Desktop\TotoAnalyzer\TotoAnalyzer\obj\Debug\net10.0\TotoAnalyzer.AssemblyInfo.cs
+C:\Users\Ерхан Юруков\Desktop\TotoAnalyzer\TotoAnalyzer\obj\Debug\net10.0\TotoAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Ерхан Юруков\Desktop\TotoAnalyzer\TotoAnalyzer\obj\Debug\net10.0\TotoAnalyzer.dll
+C:\Users\Ерхан Юруков\Desktop\TotoAnalyzer\TotoAnalyzer\obj\Debug\net10.0\refint\TotoAnalyzer.dll
+C:\Users\Ерхан Юруков\Desktop\TotoAnalyzer\TotoAnalyzer\obj\Debug\net10.0\TotoAnalyzer.pdb
+C:\Users\Ерхан Юруков\Desktop\TotoAnalyzer\TotoAnalyzer\obj\Debug\net10.0\TotoAnalyzer.genruntimeconfig.cache
+C:\Users\Ерхан Юруков\Desktop\TotoAnalyzer\TotoAnalyzer\obj\Debug\net10.0\ref\TotoAnalyzer.dll
